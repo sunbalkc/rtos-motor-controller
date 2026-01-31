@@ -339,10 +339,10 @@ IDLE          Ready   0       64B     35%
 MIT License - See LICENSE file
 
 ## Author
-[Your Name]
+Sunbal Cheema
 Firmware Engineer Portfolio Project
-Contact: [email@example.com]
-GitHub: [github.com/username]
+Contact: cheemasunbal@gmail.com
+GitHub: [github.com/sunbalkc]
 
 ## References
 - [STM32F4 Reference Manual](https://www.st.com/resource/en/reference_manual/dm00031020.pdf)
